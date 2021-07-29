@@ -1,0 +1,760 @@
+;address;name_location;latitude;longitude
+1;Av. Gen. Carneiro, 914 - Centro Sorocaba - ;DIA Supermercado;-23.503967;-47.4771406
+3;R. Visc. do Rio Branco, 1274 - Vila Jardini Sorocaba - ;Condomínio Residencial Nova Manchester;-23.5150287;-47.4743588
+5;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+9;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+11;R. Benedito Camargo Santos, 189 - Vila Trujillo Sorocaba - ;UNION Empresarial;-23.4952393;-47.4717485
+13;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+15;Av. Antônio Carlos Comitre, 475 - Parque Campolim Sorocaba - ;Padaria Real Conveniência;-23.5199263;-47.4642169
+16;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+18;Av. das Pitangueiras, 220 Votorantim - ;Villa Flora Votorantim;-23.5574592;-47.479531
+20;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+22;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+24;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+26;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+28;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+30;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+32;R. Visc. do Rio Branco, 118 - Cerrado Sorocaba - ;Rede Bom Lugar;-23.5056608;-47.4785353
+34;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+36;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+38;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+40;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+42;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+44;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+46;Av. Antônio Carlos Comitre, 475 - Parque Campolim Sorocaba - ;Padaria Real Conveniência;-23.5199263;-47.4642169
+48;Rua Professor Sylla Mattos, 772 - Jardim Santa Cruz (Sacoma) São Paulo - ;Bela santa Cruz pães e doce;-23.6410212;-46.6006605
+50;Rua Olympia Semeraro, 675 - Jardim Santa Emilia São Paulo - ;Whirlpool;-23.6443587;-46.5957212
+52;Praça Dr. João Mendes, s/n - Liberdade São Paulo - ;Fórum João Mendes Junior;-23.5526732;-46.6340426
+54;Rodovia Presidente Castelo Branco, 29 km Jardim Maria Cristina Barueri - ;Graal Barueri;-23.5092608;-46.911269
+56;Rod. Pres. Castello Branco, 2410 Araçariguama - ;Rod. Pres. Castello Branco, 2410;-23.4640094;-47.0294638
+58;Avenida Professora Izoraida Marques Peres - Parque Campolim Sorocaba - ;LR CONSERTOS;-23.5331668;-47.4635677
+60;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+62;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+64;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+66;Avenida Professora Izoraida Marques Peres - Parque Campolim Sorocaba - ;LR CONSERTOS;-23.5331668;-47.4635677
+68;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+70;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+72;Jardim America Sorocaba - ;R. João Crespo Lopes, 350-400 - Jardim America, Sorocaba - SP, 18046-785, Brasil;-23.5181325;-47.4707766
+74;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+76;Av. Dr. Afonso Vergueiro, 1700 - Centro Sorocaba - ;Sorocaba Shopping;-23.4965079;-47.4675713
+78;R. Benedito Camargo Santos, 189 - Vila Trujillo Sorocaba - ;UNION Empresarial;-23.4952393;-47.4717485
+80;R. Domingos Fernandes, 150 - Vila Trujillo Sorocaba - ;R. Domingos Fernandes, 150;-23.4935163;-47.4700387
+82;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+86;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+88;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+90;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+92;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+94;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+96;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+98;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+100;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+104;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+106;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+108;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+110;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+112;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+114;Av. Antônio Carlos Comitre, 290 - Parque Campolim Sorocaba - ;DrogaRaia;-23.5189183;-47.464619
+116;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+118;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+120;R. Benedito Camargo Santos, 189 - Vila Trujillo Sorocaba - ;UNION Empresarial;-23.4952393;-47.4717485
+122;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+124;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+126;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+128;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+130;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+132;R. Benedito Camargo Santos, 189 - Vila Trujillo Sorocaba - ;UNION Empresarial;-23.4952393;-47.4717485
+134;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+136;R. Benedito Camargo Santos, 189 - Vila Trujillo Sorocaba - ;UNION Empresarial;-23.4952393;-47.4717485
+138;Av. Dr. Afonso Vergueiro, 1700 - Centro Sorocaba - ;Sorocaba Shopping;-23.4965079;-47.4675713
+140;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+142;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+144;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+146;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+148;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+150;Praça Nova York, 150 - Jardim America Sorocaba - ;Hioki Sushi Campolim;-23.5176232;-47.4713251
+152;R. Mascarenhas Camelo, 114 - Vila Santana Sorocaba - ;Frango Tropical;-23.4942307;-47.461432
+154;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+156;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5045376;-47.4792137
+158;Av. Gen. Carneiro, 2400 - Jardim Vera Cruz Sorocaba - ;Posto Ipiranga;-23.5114142;-47.4890812
+160;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+162;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+164;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+166;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+168;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+170;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+172;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+174;R. Francisco Otaviano, 392 - Vila Haro Sorocaba - ;R. Francisco Otaviano, 392;-23.5014565;-47.4336301
+176;Av. São Paulo, NUM 925 - Além Ponte Sorocaba - ;Caixa Econômica Federal;-23.4980419;-47.4431798
+178;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+180;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+182;Jardim America Sorocaba - ;R. João Crespo Lopes, 350-400 - Jardim America, Sorocaba - SP, 18046-785, Brasil;-23.5181325;-47.4707766
+184;Pç Nove de Julho, 121 - Centro Sorocaba - ;Pç Nove de Julho, 121;-23.5034619;-47.4682579
+186;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+188;R. Padre Luiz, 235 - Centro Sorocaba - ;Pedagógica - Brinquedos, Livraria, e Papelaria em Sorocaba.;-23.499538;-47.4601069
+190;R. Dr. Álvaro Soares, 127 - Centro Sorocaba - ;Armarinhos Fernando;-23.4979231;-47.4583592
+192;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+194;Av. Antônio Carlos Comitre, 1055 - Parque Campolim Sorocaba - ;McDonald's;-23.5246029;-47.464592
+196;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+198;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+200;Av. Gen. Carneiro, 561 - CERRADO Sorocaba - ;Caixa Econômica Federal;-23.5045781;-47.4737377
+202;R. da Penha, 1373 - Centro Sorocaba - ;Padaria Real Centro;-23.5035591;-47.4661827
+204;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+206;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+208;Rod. Raposo Tavares, km 101 - Parque Reserva Fazenda Imperial Sorocaba - ;Leroy Merlin Sorocaba;-23.533157;-47.4762857
+210;Av. Antônio Carlos Comitre, 475 - Parque Campolim Sorocaba - ;Padaria Real Conveniência;-23.5199263;-47.4642169
+212;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+214;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+216;Av. Antônio Carlos Comitre, 1055 - Parque Campolim Sorocaba - ;McDonald's;-23.5246029;-47.464592
+218;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+220;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+222;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+224;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+226;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+230;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+232;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+234;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+236;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+238;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+240;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+242;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+244;R. Francisco Otaviano, 382 - Vila Haro Sorocaba - ;R. Francisco Otaviano, 382;-23.5014077;-47.4337981
+246;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+248;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+250;R. Morvan Dias Figueiredo, 65 - Jardim Santa Rosália Sorocaba - ;R. Morvan Dias Figueiredo, 65;-23.484914;-47.4423607
+252;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+254;95 Av. Antônio Carlos Comitre, 59 - Jardim Faculdade Sorocaba - ;Parque Kasato Maru;-23.5163889;-47.4647222
+256;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+258;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+260;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+262;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+264;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+266;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+268;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+270;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+272;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+274;R. Visc. do Rio Branco, 737 - Vila Jardini Sorocaba - ;ARMAZÉM SOROCABANO LTDA;-23.510554;-47.476473
+276;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+278;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+280;R. Maria Cinto de Biagi, 164 - Jardim Santa Rosália Sorocaba - ;Hipermercado Extra Santa Rosália;-23.4903187;-47.4449032
+282;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+284;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+288;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+290;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+292;R. Visc. do Rio Branco, 737 - Vila Jardini Sorocaba - ;ARMAZÉM SOROCABANO LTDA;-23.510554;-47.476473
+294;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+296;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+298;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+300;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+302;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+304;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+306;Av. Antônio Carlos Comitre, 1055 - Parque Campolim Sorocaba - ;McDonald's;-23.5246038;-47.4645779
+308;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+310;R. Cel. Benedito Píres, 141 - Centro Sorocaba - ;King of Embroidery & Notions;-23.4991882;-47.4591839
+312;Centro Sorocaba - ;Rua Dr. Álvaro Soares, 397;-23.4973662;-47.45592
+314;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+316;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+318;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+320;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+322;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+324;Av. Washington Luiz, 2009 - Jardim America Sorocaba - ;Bar 2 Zé;-23.516295;-47.4734689
+326;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+328;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+330;Av. Dr. Afonso Vergueiro, 2548 - Vila Augusta Sorocaba - ;Elda Bolos e Doces;-23.4999275;-47.4753262
+332;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+334;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+336;95 Av. Antônio Carlos Comitre, 59 - Jardim Faculdade Sorocaba - ;Parque Kasato Maru;-23.5163889;-47.4647222
+338;Av. Antônio Carlos Comitre, 1055 - Parque Campolim Sorocaba - ;McDonald's;-23.5246038;-47.4645779
+340;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+342;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+344;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+346;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+348;Av. Gen. Carneiro, 914 - Centro Sorocaba - ;DIA Supermercado;-23.503967;-47.4771406
+350;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+352;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+354;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+356;Av. Eng. Carlos Reinaldo Mendes, 3041 - Alto da Boa Vista Sorocaba - ;Prefeitura Municipal de Sorocaba;-23.4781876;-47.4241805
+358;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+360;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+364;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+366;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+368;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+370;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+372;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+374;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+376;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+378;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+380;R. Oswaldo Cruz, 19 - Vila Progresso Sorocaba - ;Sorveteria e Açaiteria Verão Vivo Santa Rosália;-23.486176;-47.451351
+382;Av. Gen. Osório, 112 - Vila Trujillo Sorocaba - ;Red bar e lanchonete;-23.4944065;-47.4642278
+384;R. Isaltino Guanabara Rodrigues Costa, 1435 - Vila Aeroporto Sorocaba - ;Rede Correia Supermercados - Vila Barão;-23.4863604;-47.4835847
+386;Pç Nove de Julho, 121 - Centro Sorocaba - ;Pç Nove de Julho, 121;-23.5034619;-47.4682579
+388;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+390;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+392;Rua Professor Sylla Mattos, 772 - Jardim Santa Cruz (Sacoma) São Paulo - ;Bela santa Cruz pães e doce;-23.6410212;-46.6006605
+394;Rua Olympia Semeraro, 675 - Jardim Santa Emilia São Paulo - ;Whirlpool;-23.6443587;-46.5957212
+396;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+400;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+402;Rua Salvador Corrêa, 659 - Jardim Vergueiro Sorocaba - ;Sweet Poison Doceria;-23.5090278;-47.4607424
+404;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+406;Avenida Professora Izoraida Marques Peres - Parque Campolim Sorocaba - ;LR CONSERTOS;-23.5331668;-47.4635677
+408;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+410;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+412;Avenida Professora Izoraida Marques Peres, 600 - Parque Campolim Sorocaba - ;Tauste Campolim;-23.5377582;-47.4668379
+414;Avenida Professora Izoraida Marques Peres - Parque Campolim Sorocaba - ;LR CONSERTOS;-23.5331668;-47.4635677
+416;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+418;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+420;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+422;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+424;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+426;R. Dr. Álvaro Soares, 200 - Centro Sorocaba - ;Audax Cursos Profissionalizantes - Sorocaba;-23.4979631;-47.4576589
+428;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+430;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+434;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+436;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+438;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+440;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+442;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+444;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+446;Jardim America Sorocaba - ;Padaria Jardim América;-23.5159371;-47.4734119
+448;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+450;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+452;Avenida Professora Izoraida Marques Peres - Parque Campolim Sorocaba - ;LR CONSERTOS;-23.5331668;-47.4635677
+454;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+456;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+460;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+462;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+464;R. Natal, 340 - Jardim Paulistano Sorocaba - ;RDC 2 Água Vermelha - Romeu Pires Osório;-23.5128802;-47.4717005
+466;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+468;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+470;R. Visc. de Cairú, 813 - Vila Independencia Sorocaba - ;Parque Municipal Dom Quixote;-23.5114436;-47.4722835
+472;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+474;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+476;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+478;Av. Antônio Carlos Comitre, 1055 - Parque Campolim Sorocaba - ;McDonald's;-23.5246038;-47.4645779
+480;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+482;R. Visc. de Cairú, 813 - Vila Independencia Sorocaba - ;Parque Municipal Dom Quixote;-23.5114436;-47.4722835
+484;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+486;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+488;Av. Washington Luiz, 2009 - Jardim America Sorocaba - ;Bar 2 Zé;-23.5163565;-47.4735164
+490;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+492;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+494;95 Av. Antônio Carlos Comitre, 59 - Jardim Faculdade Sorocaba - ;Parque Kasato Maru;-23.5163889;-47.4647222
+496;R. Domingos Fernandes - Vila Trujillo Sorocaba - ;Qualivida;-23.4933134;-47.4698429
+498;Av. Gen. Osório, 1015 - Vila Trujillo Sorocaba - ;Agência de Atendimento CPFL - Sorocaba;-23.4913806;-47.4718355
+500;R. Domingos Fernandes - Vila Trujillo Sorocaba - ;Qualivida;-23.4933134;-47.4698429
+502;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+504;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+506;Av. Antônio Carlos Comitre, 1055 - Parque Campolim Sorocaba - ;McDonald's;-23.5246038;-47.4645779
+508;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+510;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+512;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+514;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+516;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+518;R. Visc. do Rio Branco, 118 - Cerrado Sorocaba - ;Rede Bom Lugar;-23.5056608;-47.4785353
+520;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+522;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+524;R. Barcelona, 163 - Vila Hortência Sorocaba - ;R. Barcelona, 163;-23.5065213;-47.4446526
+526;R. Dr. Deodoro Réis, 215 - Vila Santana Sorocaba - ;R. Dr. Deodoro Réis, 215;-23.4878742;-47.4597535
+528;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+530;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+532;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+534;R. Padre Luiz Scrosoppi, 430 - Jardim Novo Mundo Sorocaba - ;Rasga Preço;-23.5437592;-47.5049538
+536;R. Visc. do Rio Branco, 118 - Cerrado Sorocaba - ;Rede Bom Lugar;-23.5056608;-47.4785353
+538;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+540;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+541;R. Crispiniano da Fontoura Costa, 43 - Vila Carvalho Sorocaba - ;R. Crispiniano da Fontoura Costa, 43;-23.4941697;-47.4639847
+543;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+545;R. Crispiniano da Fontoura Costa, 43 - Vila Carvalho Sorocaba - ;R. Crispiniano da Fontoura Costa, 43;-23.4941697;-47.4639847
+547;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+549;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+551;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+553;R. Cel. Benedito Píres, 151 - Centro Sorocaba - ;Princesa Supermercado de Cosméticos 2;-23.4991479;-47.459236
+555;R. Padre Luiz, 379 - Centro Sorocaba - ;Commercial Hope - Sorocaba Center;-23.4986111;-47.4608333
+557;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+560;95 Av. Antônio Carlos Comitre, 59 - Jardim Faculdade Sorocaba - ;Parque Kasato Maru;-23.5163889;-47.4647222
+562;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+564;Av. Gen. Osório, 1015 - Vila Trujillo Sorocaba - ;Agência de Atendimento CPFL - Sorocaba;-23.4911325;-47.4724072
+566;R. Floriano Peixoto, 47 - Vila Carvalho Sorocaba - ;R. Floriano Peixoto, 47;-23.4947177;-47.460935
+568;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+570;R. Visc. do Rio Branco, 118 - Cerrado Sorocaba - ;Rede Bom Lugar;-23.5056608;-47.4785353
+572;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+574;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+576;R. Miami, 392 - Jardim America Sorocaba - ;Lava-Rápido TS Sorocaba;-23.5185379;-47.4699381
+577;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+579;Av. das Pitangueiras, 220 Votorantim - ;Villa Flora Votorantim;-23.5574592;-47.479531
+581;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+583;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+586;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+588;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+590;Av. das Pitangueiras, 220 Votorantim - ;Villa Flora Votorantim;-23.5574592;-47.479531
+592;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+594;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+596;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+598;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+600;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+602;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+604;Av. Antônio Carlos Comitre, 1160 - Parque Campolim Sorocaba - ;Agência Itaú;-23.5252464;-47.4652826
+606;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+608;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+610;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+612;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+614;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+616;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+618;Av. Gen. Carneiro, 151 - Centro Sorocaba - ;Av. Gen. Carneiro, 151;-23.5031802;-47.4684267
+620;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+622;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+624;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+626;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+628;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+630;Rua Professor Sylla Mattos, 772 - Jardim Santa Cruz (Sacoma) São Paulo - ;Bela santa Cruz pães e doce;-23.6410212;-46.6006605
+632;Rua Olympia Semeraro, 675 - Jardim Santa Emilia São Paulo - ;Whirlpool;-23.6443587;-46.5957212
+634;Av. Santo Antônio, 1986 - Vila Osasco Osasco - ;1º Oficial de Registro de Osasco - SP;-23.5434374;-46.7761361
+636;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+638;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+640;R. Humberto de Campos, 871 - Jardim Zulmira Sorocaba - ;Rede Somar Supermercados;-23.4980301;-47.4840488
+641;R. Humberto de Campos, 755 - Jardim Zulmira Sorocaba - ;Condominio Village Colina do Sol;-23.4987584;-47.4836113
+643;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+648;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+650;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+652;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+654;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+656;R. Maria Helena, 280 - Centro Carapicuíba - ;Oficial de Registro Civil das Pessoas Naturais e Tabelião de Notas e de Protesto de Letras e Títulos;-23.5219702;-46.8361713
+658;Av. Santo Antônio, 1905 - Centro Osasco - ;Centro Clínico Santo Antônio;-23.5425714;-46.7760597
+660;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+662;Av. Moacir Oséias Guiti, s/n - Parque Morumbi Votorantim - ;McDonald's;-23.5358404;-47.4511793
+664;Avenida Professora Izoraida Marques Peres - Parque Campolim Sorocaba - ;LR CONSERTOS;-23.5331668;-47.4635677
+666;Av. Antônio Carlos Comitre, 32 - Jardim America Sorocaba - ;Drogasil;-23.5164494;-47.4660162
+668;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+670;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+672;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+674;Av. Antônio Carlos Comitre, 32 - Jardim America Sorocaba - ;Drogasil;-23.5164494;-47.4660162
+676;Alameda Araguaia, 190 - Alphaville Industrial Barueri - ;Cartório de Imoveis Barueri;-23.4993077;-46.8595826
+678;Av. Bandeirantes, 3963 - Brigadeiro Tobias Sorocaba - ;Centro Esportivo Brigadeiro Tobias;-23.507719;-47.3675537
+680;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+682;Jardim America Sorocaba - ;Padaria Jardim América;-23.5159371;-47.4734119
+684;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+686;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+688;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+690;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+692;R. Rosa Maria de Oliveira, 333 - Jardim Zulmira Sorocaba - ;Instituto Humberto de Campos;-23.5010494;-47.4827201
+694;Av. Gen. Carneiro, 914 - Centro Sorocaba - ;DIA Supermercado;-23.503967;-47.4771406
+696;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+698;Av. Dr. Afonso Vergueiro, 2548 - Vila Augusta Sorocaba - ;Elda Bolos e Doces;-23.4998978;-47.475345
+700;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+702;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+704;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+706;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+708;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+710;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+712;Av. Gen. Carneiro, 875/877 - Vila Lucy Sorocaba - ;Kalunga Stationery and Computer;-23.504686;-47.4769682
+714;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+716;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+717;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+719;Av. Gen. Carneiro, 875/877 - Vila Lucy Sorocaba - ;Kalunga Stationery and Computer;-23.504686;-47.4769682
+721;Av. Gen. Carneiro, 875/877 - Vila Lucy Sorocaba - ;Kalunga Stationery and Computer;-23.504686;-47.4769682
+723;R. Miami, 392 - Jardim America Sorocaba - ;Lava-Rápido TS Sorocaba;-23.5185379;-47.4699381
+724;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+726;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+728;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+730;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+732;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+733;Jardim America Sorocaba - ;R. João Crespo Lopes, 350-400 - Jardim America, Sorocaba - SP, 18046-785, Brasil;-23.5181325;-47.4707766
+735;Pç Nove de Julho, 020 - Centro Sorocaba - ;Praça Nove de Julho;-23.5028709;-47.4681956
+737;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+739;95 Av. Antônio Carlos Comitre, 59 - Jardim Faculdade Sorocaba - ;Parque Kasato Maru;-23.5163889;-47.4647222
+741;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+743;R. Dr. Fernando Santos, 405 - Jardim Maria do Carmo Sorocaba - ;DHL Sorocaba (Internacional);-23.475176;-47.4444149
+745;Av. Antônio Carlos Comitre, 475 - Parque Campolim Sorocaba - ;Padaria Real Conveniência;-23.5199263;-47.4642169
+747;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+749;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+751;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+753;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+755;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+757;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+759;Av. Dr. Afonso Vergueiro, 2548 - Vila Augusta Sorocaba - ;Elda Bolos e Doces;-23.4998978;-47.475345
+761;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+763;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+765;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+767;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+769;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+771;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+773;Parque Campolim Sorocaba - ;Carlos Alberto de Souza Park;-23.5226351;-47.465229
+775;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+777;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+779;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+781;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+783;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+785;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+787;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+791;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+793;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+795;R. Duque de Caxias, 494 - Mangal Sorocaba - ;Sesi 123 Centro Educacional;-23.5073602;-47.4688612
+797;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+799;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+801;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+802;Praça Nova York, 150 - Jardim America Sorocaba - ;Hioki Sushi Campolim;-23.5176232;-47.4713251
+804;Pç Nove de Julho, 121 - Centro Sorocaba - ;Pç Nove de Julho, 121;-23.5034619;-47.4682579
+806;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+808;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+810;Av. Dr. Afonso Vergueiro, 1700 - Centro Sorocaba - ;Sorocaba Shopping;-23.4965079;-47.4675713
+812;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+814;Av. Dr. Américo Figueiredo, 3831 - Júlio de Mesquita Filho Sorocaba - ;Farmácia Farma Ponte;-23.5032095;-47.518392
+816;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+818;Av. Dr. Afonso Vergueiro, 1700 - Centro Sorocaba - ;Sorocaba Shopping;-23.4965079;-47.4675713
+819;R. Benedito Camargo Santos, 189 - Vila Trujillo Sorocaba - ;UNION Empresarial;-23.4952393;-47.4717485
+821;R. Domingos Fernandes, 198 - Vila Trujillo Sorocaba - ;QualiVida Sorocaba;-23.4937678;-47.4703019
+823;R. Benedito Camargo Santos, 189 - Vila Trujillo Sorocaba - ;UNION Empresarial;-23.4952393;-47.4717485
+825;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+827;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+829;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+831;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+833;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+835;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+837;Av. Dr. Afonso Vergueiro, 1700 - Centro Sorocaba - ;Sorocaba Shopping;-23.4965079;-47.4675713
+839;R. Visc. do Rio Branco, 737 - Vila Jardini Sorocaba - ;ARMAZÉM SOROCABANO LTDA;-23.510554;-47.476473
+841;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+843;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+845;Av. Washington Luiz, 2059 - Jardim America Sorocaba - ;Posto Shell - SERAUT AUTO POSTO LTDA;-23.5158924;-47.4739587
+847;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+849;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+851;R. Floriano Peixoto, 47 - Vila Carvalho Sorocaba - ;R. Floriano Peixoto, 47;-23.4947177;-47.460935
+853;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+855;Av. Moreira César, 495 - Centro Sorocaba - ;Droga Raia;-23.5030996;-47.4677746
+857;R. da Penha, 1176 - Centro Sorocaba - ;Supermercado São Bento;-23.5021839;-47.4651287
+859;Pç Nove de Julho, 121 - Centro Sorocaba - ;Pç Nove de Julho, 121;-23.5034619;-47.4682579
+861;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+863;Avenida Professora Izoraida Marques Peres - Parque Campolim Sorocaba - ;LR CONSERTOS;-23.5331668;-47.4635677
+865;R. São Bento, 233 - Centro Sorocaba - ;Banco Bradesco;-23.501181;-47.4584819
+867;R. XV de Novembro, 284 - Centro Sorocaba - ;Agência Itaú;-23.5007871;-47.4543563
+869;Av. Dr. Afonso Vergueiro, 1700 - Centro Sorocaba - ;Sorocaba Shopping;-23.4965079;-47.4675713
+871;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+873;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+875;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+877;R. Odete Nanci Giraldi, 67 - Ipiranga Sorocaba - ;EM Irineu Leister;-23.4987613;-47.5082358
+879;R. Visc. do Rio Branco, 1225 - Vila Jardini Sorocaba - ;Placas.Autos - Placas Mercosul;-23.5145149;-47.4742662
+882;Jardim America Sorocaba - ;Padaria Jardim América;-23.5159371;-47.4734119
+883;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+885;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+887;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+889;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+891;95 Av. Antônio Carlos Comitre, 59 - Jardim Faculdade Sorocaba - ;Parque Kasato Maru;-23.5163889;-47.4647222
+893;R. Domingos Fernandes, 150 - Vila Trujillo Sorocaba - ;R. Domingos Fernandes, 150;-23.4935163;-47.4700387
+895;Rua Dr. Braguinha, 162 - Centro Sorocaba - ;Danny Cosméticos;-23.4993848;-47.4570175
+897;Centro Sorocaba - ;"Terminal Santo Antônio - Plataform P5 - Ponto ""Q""";-23.4960219;-47.4598122
+899;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+901;Praça Nova York, 53 - Jardim America Sorocaba - ;NY DINER;-23.5184584;-47.4703404
+903;Av. Washington Luiz, 2009 - Jardim America Sorocaba - ;Bar 2 Zé;-23.5163565;-47.4735164
+905;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+907;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+909;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+911;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+913;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+917;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+919;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+921;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+923;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+925;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+929;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+931;R. Francisco Scarpa, 269 - Centro Sorocaba - ;Workers Union of Sorocaba Trade;-23.4965739;-47.4615631
+933;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+935;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+937;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+939;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+941;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+943;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+945;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+947;R. João Pinto, 191 - Jardim Sao Paulo Sorocaba - ;R. João Pinto, 191;-23.5229321;-47.4961571
+949;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+951;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+953;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+957;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+959;Jardim Sao Carlos Sorocaba - ;Edificio RED SOROCABA;-23.5308552;-47.4757594
+961;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+963;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+965;R. Frontino Alexandrino Freire, 379 - Parque Campolim Sorocaba - ;Moqueca Caribe;-23.5221382;-47.4670173
+967;Pç Nove de Julho, 141 - Centro Sorocaba - ;Edifício Portal do Aveiro;-23.5032688;-47.4683771
+969;Av. Gen. Carneiro, 1850 - Vila Lucy Sorocaba - ;Posto Ipiranga;-23.5079485;-47.4852289
+971;Av. Gen. Carneiro, 2436 - Vila Lucy Sorocaba - ;Oxford Rei do Pernil;-23.5117827;-47.4890685
+973;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+975;Av. Júlio Cassola, 3.105 - Alphaville Votorantim - ;Alphaville New Esplanade 4;-23.5728828;-47.4803215
+977;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+979;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+981;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+983;Jardim Sao Carlos Sorocaba - ;Edificio RED SOROCABA;-23.5308552;-47.4757594
+985;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+987;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+989;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+993;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+995;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+997;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1001;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1003;R. Crispiniano da Fontoura Costa, 43 - Vila Carvalho Sorocaba - ;R. Crispiniano da Fontoura Costa, 43;-23.4941697;-47.4639847
+1005;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1009;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1011;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+1013;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1015;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+1017;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1019;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+1021;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1023;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1027;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1029;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1031;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+1033;R. Maria Aparecida Pessutti Milego, 250 - Parque Campolim Sorocaba - ;Extra Hipermercado - Campolim;-23.530715;-47.463646
+1035;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1037;R. Visc. do Rio Branco, 737 - Vila Jardini Sorocaba - ;ARMAZÉM SOROCABANO LTDA;-23.510554;-47.476473
+1039;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1041;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+1043;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1047;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1049;R. Visc. de Cairú, 750 - Vila Independencia Sorocaba - ;Bakery and Confectionery Panini & Co.;-23.5107974;-47.4722119
+1051;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1052;Parque Campolim Sorocaba - ;Pista de Caminhada do Campolim;-23.5244685;-47.4672936
+1054;Av. Antônio Carlos Comitre, 475 - Parque Campolim Sorocaba - ;Padaria Real Conveniência;-23.5199263;-47.4642169
+1056;Parque Campolim Sorocaba - ;Pista de Caminhada do Campolim;-23.5244685;-47.4672936
+1058;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1060;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1062;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+1064;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1066;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1068;R. Padre Luiz, 82 - Centro Sorocaba - ;Mercado Municipal;-23.4982069;-47.4600496
+1070;R. Domingos Fernandes, 198 - Vila Trujillo Sorocaba - ;QualiVida Sorocaba;-23.4937678;-47.4703019
+1072;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1076;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1078;R. Prof. Toledo, 848 - Vila Trujillo Sorocaba - ;Shell Select;-23.4964411;-47.4658813
+1080;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1082;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1084;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1086;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1088;R. Maria Aparecida Pessutti Milego, 250 - Parque Campolim Sorocaba - ;Extra Hipermercado - Campolim;-23.530715;-47.463646
+1090;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1092;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1094;Em frente ao Asilo dos Velhinhos Rua Dr. Luiz Mendes de Almeida, 257 - Vila Espirito Santo Sorocaba - ;Shopping Das Fabricas Sorocaba;-23.5152585;-47.4903461
+1096;R. João Pinto, 173 - Jardim Sao Paulo Sorocaba - ;Just Decor Sorocaba;-23.5228607;-47.4959238
+1098;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+1100;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1104;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1106;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1108;R. Terêncio Costa Dias, 300 - Parque Santa Isabel Sorocaba - ;CEAGESP;-23.5312315;-47.4998302
+1110;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1112;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+1114;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+1116;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1118;Jardim Sao Carlos Sorocaba - ;Edificio RED SOROCABA;-23.5308552;-47.4757594
+1120;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1122;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+1124;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1126;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1130;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1132;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+1134;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1136;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+1138;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1140;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1142;R. Valter Luís D Ávila, 171 - Central Park Sorocaba - ;Church Sao Judas;-23.5176969;-47.5060266
+1144;Av. Dr. Armando Pannunzio, 1601 - Jardim Sao Carlos Sorocaba - ;Confiança Supermercados;-23.5274985;-47.4895255
+1146;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1148;R. Ilda do Amaral Cussiol, 12 - Jardim Isaura Sorocaba - ;Hmx veiculos;-23.524073;-47.4636822
+1150;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1152;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+1154;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1156;Jardim Sao Carlos Sorocaba - ;Edificio RED SOROCABA;-23.5308552;-47.4757594
+1158;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1160;R. Visc. de Cairú, 750 - Vila Independencia Sorocaba - ;Bakery and Confectionery Panini & Co.;-23.5107974;-47.4722119
+1164;Av. Antônio Carlos Comitre, 475 - Parque Campolim Sorocaba - ;Padaria Real Conveniência;-23.5199263;-47.4642169
+1166;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1168;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1170;R. Mascarenhas Camelo, 114 - Vila Santana Sorocaba - ;Frango Tropical;-23.4942307;-47.461432
+1172;Av. Gen. Carneiro, 2436 - Vila Lucy Sorocaba - ;Oxford Rei do Pernil;-23.5117827;-47.4890685
+1174;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1176;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+1178;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1180;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1182;Avenida Professora Izoraida Marques Peres, 600 - Parque Campolim Sorocaba - ;Tauste Campolim;-23.5377582;-47.4668379
+1184;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1186;Av. Gen. Carneiro, 1561 - Vila Jardini Sorocaba - ;Av. Gen. Carneiro, 1561;-23.5066936;-47.4827348
+1188;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1190;R. Visc. do Rio Branco, 737 - Vila Jardini Sorocaba - ;ARMAZÉM SOROCABANO LTDA;-23.510554;-47.476473
+1192;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1194;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1196;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1198;Avenida Professora Izoraida Marques Peres, 600 - Parque Campolim Sorocaba - ;Tauste Campolim;-23.5377582;-47.4668379
+1200;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1202;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5147381;-47.4748611
+1204;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1206;Av. Washington Luiz, 2059 - Jardim America Sorocaba - ;Posto Shell - SERAUT AUTO POSTO LTDA;-23.5158924;-47.4739587
+1208;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1210;Pç Nove de Julho, 141 - Centro Sorocaba - ;Edifício Portal do Aveiro;-23.5032688;-47.4683771
+1212;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171261;-47.4704781
+1214;R. Padre Luiz, 82 - Centro Sorocaba - ;Mercado Municipal;-23.4982069;-47.4600496
+1216;R. Francisco Scarpa, 111 - Centro Sorocaba - ;Casa das Velas;-23.4976556;-47.4606658
+1218;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1220;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5145393;-47.4745287
+1222;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1224;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1226;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+1228;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1230;R. Visc. de Cairú, 750 - Vila Independencia Sorocaba - ;Bakery and Confectionery Panini & Co.;-23.5107974;-47.4722119
+1232;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1234;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1236;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+1238;Avenida Professora Izoraida Marques Peres, 600 - Parque Campolim Sorocaba - ;Tauste Campolim;-23.5377582;-47.4668379
+1240;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1242;Jardim Sao Carlos Sorocaba - ;Edificio RED SOROCABA;-23.5308552;-47.4757594
+1244;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1246;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1248;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5145393;-47.4745287
+1250;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+1252;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1254;Av. Moreira César, 217 - Centro Sorocaba - ;Minuto Pão de Açúcar Sorocaba;-23.5045942;-47.4653033
+1256;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1258;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1260;R. Visc. de Cairú, 750 - Vila Independencia Sorocaba - ;Bakery and Confectionery Panini & Co.;-23.5107974;-47.4722119
+1262;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1264;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1266;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.470459
+1270;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.470459
+1272;Av. Dr. Afonso Vergueiro, 1700 - Centro Sorocaba - ;Sorocaba Shopping;-23.4965079;-47.4675713
+1274;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.470459
+1276;Av. Dr. Afonso Vergueiro, 2548 - Vila Augusta Sorocaba - ;Elda Bolos e Doces;-23.4998978;-47.475345
+1278;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5145393;-47.4745287
+1280;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.470459
+1282;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1284;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704552
+1286;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+1288;Rua Professor Sylla Mattos, 772 - Jardim Santa Cruz (Sacoma) São Paulo - ;Bela santa Cruz pães e doce;-23.6410212;-46.6006605
+1290;Rua Olympia Semeraro, 675 - Jardim Santa Emilia São Paulo - ;Whirlpool;-23.6443587;-46.5957212
+1292;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704552
+1294;Avenida Professora Izoraida Marques Peres, 600 - Parque Campolim Sorocaba - ;Tauste Campolim;-23.5377582;-47.4668379
+1296;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704552
+1298;Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1274;-23.5150255;-47.4742725
+1300;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1302;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704552
+1306;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704552
+1308;R. Padre Luiz, 82 - Centro Sorocaba - ;Mercado Municipal;-23.4982069;-47.4600496
+1310;Largo de São Bento, 62 - Centro Sorocaba - ;monastery of St. benedict;-23.5020545;-47.4598774
+1312;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1314;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704552
+1316;Jardim America Sorocaba - ;Super Posto JC;-23.5162506;-47.4659026
+1318;R. Assunção, 491 - Jardim America Sorocaba - ;Nova Esplanada Mercearia;-23.5199214;-47.4687643
+1320;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704552
+1322;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1324;Av. Salvador Milego, 93 - Jardim Vera Cruz Sorocaba - ;Rede Bom Lugar;-23.511712;-47.4897769
+1326;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704552
+1330;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704552
+1332;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1334;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1336;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1338;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1340;R. Ilda do Amaral Cussiol, 12 - Jardim Isaura Sorocaba - ;Hmx veiculos;-23.524073;-47.4636822
+1342;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1344;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1346;R. Padre Luiz, 379 - Centro Sorocaba - ;Commercial Hope - Sorocaba Center;-23.4986111;-47.4608333
+1348;Av. Antônio Carlos Comitre, 1160 - Parque Campolim Sorocaba - ;Agência Itaú;-23.5252464;-47.4652826
+1350;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+1352;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1354;Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1274;-23.5150255;-47.4742725
+1356;Av. Washington Luiz, 2009 - Jardim America Sorocaba - ;Bar 2 Zé;-23.5163565;-47.4735164
+1358;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1360;Av. Pereira da Silva, 1919 - Jardim Santa Rosália Sorocaba - ;Santa Esquina Bar n' Food;-23.4831502;-47.4398243
+1362;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1364;R. Ilda do Amaral Cussiol, 12 - Jardim Isaura Sorocaba - ;Hmx veiculos;-23.524073;-47.4636822
+1366;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171757;-47.4704552
+1368;R. Cel. Benedito Píres, 45 - Centro Sorocaba - ;Lojas Americanas;-23.5000309;-47.4587312
+1370;R. Dr. Álvaro Soares, 111 - Centro Sorocaba - ;Magazine Luiza;-23.4979076;-47.4585648
+1371;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+1373;Pç Nove de Julho, 141 - Centro Sorocaba - ;Edifício Portal do Aveiro;-23.5032688;-47.4683771
+1375;Av. Comendador Pereira Inácio, 1112 - Jardim Vergueiro Sorocaba - ;Biquinha the Municipal Natural Park;-23.5156879;-47.454791
+1377;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1381;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1383;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1385;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1389;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1391;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1393;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1395;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1397;Av. Dr. Afonso Vergueiro, 1700 - Centro Sorocaba - ;Sorocaba Shopping;-23.4965079;-47.4675713
+1399;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1401;Av. Abraham Lincoln, 195 - Jardim dos Estados Sorocaba - ;Drogamyl;-23.5175776;-47.4745746
+1403;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1405;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1407;Avenida Professora Izoraida Marques Peres, 600 - Parque Campolim Sorocaba - ;Tauste Campolim;-23.5377582;-47.4668379
+1409;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1411;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5145393;-47.4745287
+1413;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1415;R. Visc. do Rio Branco, 737 - Vila Jardini Sorocaba - ;ARMAZÉM SOROCABANO LTDA;-23.510554;-47.476473
+1417;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704514
+1421;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704475
+1423;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704475
+1425;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704475
+1427;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704475
+1429;R. Rosa Maria de Oliveira, 333 - Jardim Zulmira Sorocaba - ;Instituto Humberto de Campos;-23.5010494;-47.4827201
+1431;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171738;-47.4704475
+1433;Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1274;-23.5150255;-47.4742725
+1435;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.4704475
+1437;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1439;Jardim America Sorocaba - ;R. João Crespo Lopes, 350-400 - Jardim America, Sorocaba - SP, 18046-785, Brasil;-23.5181325;-47.4707766
+1441;R. XV de Novembro, 75 - Centro Sorocaba - ;Lojas Americanas;-23.499844;-47.4561576
+1442;R. Dr. Paula Souza - Centro Sorocaba - ;Plaza Doctor Arthur Fajardo;-23.500421;-47.4532707
+1444;R. Padre Luiz, 82 - Centro Sorocaba - ;Mercado Municipal;-23.4982069;-47.4600496
+1446;R. Cesário Mota, s/n - Centro Sorocaba - ;Banca Fórum Velho;-23.5026083;-47.4612238
+1448;R. Cel. Benedito Píres, 45 - Centro Sorocaba - ;Lojas Americanas;-23.5000309;-47.4587312
+1450;Centro Sorocaba - ;0053 - Sete de Setembro, 480;-23.5006865;-47.4638429
+1452;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.4704475
+1454;R. Humberto de Campos, 541 - Jardim Humberto de Campos Sorocaba - ;State School Humberto de Campos;-23.4997244;-47.483716
+1456;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1458;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5145393;-47.4745287
+1460;Jardim America Sorocaba - ;R. João Crespo Lopes, 350-400 - Jardim America, Sorocaba - SP, 18046-785, Brasil;-23.5181325;-47.4707766
+1462;Pç Nove de Julho, 141 - Centro Sorocaba - ;Edifício Portal do Aveiro;-23.5032688;-47.4683771
+1464;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.4704475
+1466;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.4704475
+1468;Avenida Professora Izoraida Marques Peres, 600 - Parque Campolim Sorocaba - ;Tauste Campolim;-23.5377582;-47.4668379
+1470;R. Visc. do Rio Branco, 1225 - Vila Jardini Sorocaba - ;Placas.Autos - Placas Mercosul;-23.5145149;-47.4742662
+1472;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.4704475
+1474;R. Domingos Fernandes, 161 - Vila Trujillo Sorocaba - ;CAPS III ARTE DO ENCONTRO;-23.4936172;-47.4699586
+1476;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.5171719;-47.4704475
+1478;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1480;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704475
+1482;Av. Antônio Carlos Comitre, 80 - Parque Campolim Sorocaba - ;Sam's Club;-23.5173235;-47.4655103
+1484;R. Martinica, 112 - Jardim America Sorocaba - ;Construtora Verônica;-23.5197453;-47.468969
+1486;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5145393;-47.4745287
+1488;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704475
+1490;R. Gustavo Teixeira, 474 - Vila Independencia Sorocaba - ;Gastão Bar;-23.5084419;-47.470066
+1492;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1494;Pç Nove de Julho, 141 - Centro Sorocaba - ;Edifício Portal do Aveiro;-23.5032688;-47.4683771
+1496;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704475
+1498;Jardim America Sorocaba - ;Padaria Jardim América;-23.5159371;-47.4734119
+1500;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704475
+1502;Av. Dr. Afonso Vergueiro, 310 - Centro Sorocaba - ;Estação Ferroviária de Sorocaba;-23.4962827;-47.4545505
+1504;Av. Dom Aguirre, 4258-4294 - Centro Sorocaba - ;Praça LIONS Sorocaba;-23.4982547;-47.4526405
+1506;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+1508;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704475
+1510;Pç Nove de Julho, 141 - Centro Sorocaba - ;Edifício Portal do Aveiro;-23.5032688;-47.4683771
+1512;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704475
+1514;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704475
+1516;R. Valdir Gentil, 99 - Parque Campolim Sorocaba - ;R. Valdir Gentil, 99;-23.5248805;-47.4657764
+1518;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704475
+1522;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704475
+1523;Jardim America Sorocaba - ;R. João Crespo Lopes, 350-400 - Jardim America, Sorocaba - SP, 18046-785, Brasil;-23.5181325;-47.4707766
+1525;R. Floriano Peixoto, 47 - Vila Carvalho Sorocaba - ;R. Floriano Peixoto, 47;-23.4947177;-47.460935
+1527;R. Crispiniano da Fontoura Costa, 43 - Vila Carvalho Sorocaba - ;R. Crispiniano da Fontoura Costa, 43;-23.4941697;-47.4639847
+1529;Av. Dr. Afonso Vergueiro, 823 - Centro Sorocaba - ;Pátio Cianê Shopping;-23.4963889;-47.46
+1531;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704437
+1533;R. Visc. do Rio Branco, 1200 - Vila Jardini Sorocaba - ;R. Visc. do Rio Branco, 1200;-23.5145393;-47.4745287
+1535;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704437
+1537;R. Visc. do Rio Branco, 737 - Vila Jardini Sorocaba - ;ARMAZÉM SOROCABANO LTDA;-23.510554;-47.476473
+1539;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704437
+1541;Av. Caribe, 184 - Jardim America Sorocaba - ;Av. Caribe, 184;-23.5212551;-47.4699229
+1543;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704437
+1545;Av. Gen. Carneiro, 1850 - Vila Lucy Sorocaba - ;Posto Ipiranga;-23.5077984;-47.485259
+1547;R. Águiar de Barros, 30 - Vila Adelia Sorocaba - ;mini preço santa rita;-23.4862583;-47.4591143
+1549;R. São Bento, 232 - Centro Sorocaba - ;Correios (AC/SOROCABA/SPI);-23.5010304;-47.4585553
+1551;Av. Gen. Carneiro, 1120 - Vila Lucy Sorocaba - ;Tauste General Carneiro;-23.5040484;-47.4793981
+1553;Av. Gen. Carneiro, 1561 - Vila Jardini Sorocaba - ;Av. Gen. Carneiro, 1561;-23.5066936;-47.4827348
+1555;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704437
+1557;R. Padre Luiz, 379 - Centro Sorocaba - ;Commercial Hope - Sorocaba Center;-23.4986111;-47.4608333
+1560;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704437
+1562;R. Padre Luiz, 235 - Centro Sorocaba - ;Pedagógica - Brinquedos, Livraria, e Papelaria em Sorocaba.;-23.499538;-47.4601069
+1564;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704437
+1566;R. Padre Luiz, 379 - Centro Sorocaba - ;Commercial Hope - Sorocaba Center;-23.4986111;-47.4608333
+1568;R. João Crespo Lopes, 151 - Jardim America Sorocaba - ;R. João Crespo Lopes, 151;-23.51717;-47.4704437

@@ -1,0 +1,35 @@
+;begin_trip_lat_aline;begin_trip_lng_aline;begin_trip_address_aline;dropoff_lat_aline;dropoff_lng_aline;dropoff_address_aline;Distance (miles);fare_amount_aline;request_day_aline
+0;-23.550228;-46.91344;R. Sabiá, 294 - Jardim Nova Cotia, Itapevi - ;-23.563826000000002;-46.845946999999995;R. Ribeirão Branco, 162 - Vila Anunciata, Carapicuíba - ;6.96;22.96;2021-07-20
+1;-23.541296;-46.937459999999994;Av. Presidente Vargas, 459 - Nova Itapevi - Itapevi - ;-23.555664;-46.913692;R. dos Marinheiros, 49 - Chácara Santa Cecília, Itapevi - ;2.79;16.05;2021-07-19
+2;-23.550266;-46.91342;R. Sabiá, 249 - Jardim Briquet, Itapevi - ;-23.540855;-46.937996000000005;Av. Presidente Vargas, 459 - Nova Itapevi - Itapevi - ;2.46;12.9;2021-07-19
+3;-23.550062;-46.91353;R. Cerro Corá, 22-36 - Jardim Nova Cotia, Jandira - ;-23.541098;-46.937603;Av. Presidente Vargas, 459 - Nova Itapevi - Itapevi - ;3.45;12.91;2021-07-19
+4;-23.550203;-46.913433000000005;R. Sabiá, 294 - Jardim Nova Cotia, Itapevi - ;-23.540842;-46.934456;R. José Michelotti, 300 - Cidade Saúde - Itapevi - ;2.37;17.93;2021-07-19
+5;-23.550196;-46.913445;R. Cerro Corá, 22-36 - Jardim Nova Cotia, Jandira - ;-23.540526999999997;-46.934020000000004;R. José Michelotti, 300 - Cidade Saúde - Itapevi - ;2.41;16.92;2021-07-13
+6;-23.55024;-46.91343;R. Sabiá, 239 - Jardim Briquet, Itapevi - ;-23.541317000000003;-46.934628000000004;R. José Michelotti, 300 - Cidade da Saude, Itapevi - ;2.32;9.96;2021-07-06
+7;-23.555689;-46.91368;R. dos Marinheiros, 141 - Chácara Santa Cecília, Itapevi - ;-23.55011;-46.91349;R. Cerro Corá, 22-36 - Jardim Nova Cotia, Jandira - ;0.62;13.91;2021-06-28
+8;-23.550241;-46.913433000000005;R. Cerro Corá, 22-36 - Jardim Nova Cotia, Jandira - ;-23.540565;-46.934104999999995;R. José Michelotti, 300 - Cidade da Saude, Itapevi - ;2.15;10.99;2021-06-23
+9;-23.550285000000002;-46.913425;R. Sabiá, 284 - Jardim Nova Cotia, Itapevi - ;-23.544302;-46.962883000000005;R. Jose Fratini, 14 - Vila Santa Flora, Itapevi - ;5.5;33.93;2021-06-21
+10;-23.55023;-46.9134;R. Sabiá, 239 - Jardim Briquet, Itapevi - ;-23.540508;-46.934086;R. Agostinho Ferreira Campos, 153 - Cidade da Saude, Itapevi - ;2.14;9.98;2021-06-09
+11;-23.529833;-46.902145000000004;Av. Carmine Gragnano, 139 - Centro, Jandira - ;-23.555695999999998;-46.913654;Rua Um, 139 - Chácara Santa Cecília, Itapevi - ;2.7;12.77;2021-06-03
+13;-23.550127;-46.913475;R. Sabiá, 253 - Jardim Briquet, Itapevi - ;-23.542364000000003;-46.935093;R. Prof. Dimarães Antônio Sandei, 20 - Cidade da Saude, Itapevi - ;2.08;10.01;2021-06-01
+14;-23.550176999999998;-46.913506;R. Sabiá, 253 - Jardim Briquet, Itapevi - ;-23.541134;-46.937534;Estr. da Roselândia, 441 - Jardim Nova Itapevi, Itapevi - ;2.69;11.04;2021-05-18
+15;-23.55015;-46.913494;R. Sabiá, 290 - Jardim Nova Cotia, Itapevi - ;-23.542479;-46.935140000000004;R. José Michelotti, 421 - Cidade da Saude, Itapevi - ;1.98;8.99;2021-04-13
+16;-23.555757999999997;-46.913703999999996;R. Pamplona, 60 - Jardim Santa Rita, Itapevi - ;-23.550279999999997;-46.913525;R. Sabiá, 290 - Jardim Nova Cotia, Itapevi - ;0.69;11.03;2021-04-12
+17;-23.555536;-46.913685;R. dos Marinheiros, 125 - Chácara Santa Cecília, Itapevi - ;-23.550106;-46.91353;R. Sabiá, 190 - Jardim Briquet, Itapevi - ;0.68;7.67;2021-04-04
+18;-23.555641;-46.91361;Rua Um, 123 - Chácara Santa Cecília, Itapevi - ;-23.550192000000003;-46.91344;R. Sabiá, 290 - Jardim Nova Cotia, Itapevi - ;0.6;7.95;2021-03-29
+21;-23.550259;-46.913414;R. Sabiá, 239 - Jardim Briquet, Itapevi - ;-23.54736;-46.909184;R. Alexandre Tomás da Silva, 509 - Jardim Gabriela I, Jandira - ;0.52;7.67;2021-03-01
+22;-23.550247;-46.91341;R. Sabiá, 239 - Jardim Briquet, Itapevi - ;-23.542379999999998;-46.93509;R. Prof. Dimarães Antônio Sandei, 20 - Cidade da Saude, Itapevi - ;2.26;9.76;2021-02-25
+23;-23.55565;-46.91366;Rua Um, 122 - Chácara Santa Cecília, Itapevi - ;-23.55496;-46.90615;Estr. Estadual Barueri-Itapevi, 788 - Parque Nova Jandira, Jandira - ;1.53;12.98;2021-02-22
+24;-23.550266;-46.9134;R. Sabiá, 239 - Jardim Briquet, Itapevi - ;-23.53002;-46.9025;Av. Carmine Gragnano, 38 - Centro, Jandira - ;2.06;8.38;2021-02-19
+25;-23.550207;-46.913425;R. Sabiá, 249 - Jardim Briquet, Itapevi - ;-23.548448999999998;-46.936690000000006;Av. Rubens Caramez, 264 - Centro, Itapevi - ;2.04;10.7;2021-02-11
+26;-23.55569;-46.913612;Rua Um, 139 - Chácara Santa Cecília, Itapevi - ;-23.550173;-46.913464000000005;R. Sabiá, 290 - Jardim Nova Cotia, Itapevi - ;0.61;11.61;2021-02-08
+27;-23.550234;-46.91341;R. Sabiá, 239 - Jardim Briquet, Itapevi - ;-23.436526999999998;-46.802265000000006;R. Minas Gerais, 10 - Jardim Rosinha, São Paulo - ;21.04;43.13;2021-02-04
+28;-23.550241;-46.913464000000005;R. Sabiá, 290 - Jardim Nova Cotia, Itapevi - ;-23.548448999999998;-46.936657000000004;Av. Rubens Caramez, 264 - Centro, Itapevi - ;2.68;11.3;2021-02-01
+29;-23.555643;-46.913635;R. dos Marinheiros, 141 - Chácara Santa Cecília, Itapevi - ;-23.550161;-46.913498;R. Sabiá, 294 - Jardim Nova Cotia, Itapevi - ;0.61;7.38;2021-02-01
+30;-23.550163;-46.913498;R. Sabiá, 294 - Jardim Nova Cotia, Itapevi - ;-23.555601;-46.91362;Rua Um, 122 - Chácara Santa Cecília, Itapevi - ;0.69;6.86;2021-01-29
+31;-23.540557999999997;-46.934124;R. José Michelotti, 175 - Cidade da Saude, Itapevi - ;-23.550121;-46.913517;R. Sabiá, 190 - Jardim Briquet, Itapevi - ;2.42;10.23;2021-01-25
+32;-23.55023;-46.913456;R. Sabiá, 290 - Jardim Nova Cotia, Itapevi - ;-23.541656;-46.93479;R. Leopoldina de Camargo, 260 - Centro, Itapevi - ;2.07;9.48;2021-01-25
+33;-23.55034;-46.91335;R. Sabiá, 286 - Jardim Briquet, Itapevi - ;-23.563782;-46.84604;R. Ribeirão Branco, 176 - Vila Anunciata, Carapicuíba - ;7.44;18.11;2021-01-21
+34;-23.55025;-46.91342;R. Sabiá, 290 - Jardim Nova Cotia, Itapevi - ;-23.536339;-46.911076;R. Tapirapes, 59 - Jardim Belmont, Jandira - ;1.54;7.88;2021-01-13
+35;-23.550224;-46.913414;R. Sabiá, 290 - Jardim Nova Cotia, Itapevi - ;-23.544355;-46.962833;R. Jose Fratini, 14 - Vila Santa Flora, Itapevi - ;4.65;11.72;2021-01-04
+37;-23.550213;-46.91345;R. Sabiá, 290 - Jardim Nova Cotia, Itapevi - ;-23.526670000000003;-46.887215000000005;R. Dr. Elías Salomão Mansur, 97 - Jardim Audir, Barueri - ;4.56;15.05;2021-01-01
