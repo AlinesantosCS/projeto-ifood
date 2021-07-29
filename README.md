@@ -13,9 +13,9 @@
 <h3 align= "center"> Colaboradoras do projeto </h3>
 
 
-<table>
+<table align="center">
  <td align="center"><br>
-        <b>Aline Santos</b>
+        <br><b>Aline Santos</b><br>
         <a href="">
             <img src="https://avatars.githubusercontent.com/u/66446323?s=400&u=ceca6c002e0d002d4ab563458d2da287c2ef03ba&v=4" width="150px;" alt="Aline Santos" style="max-width:100%;">
             <sub></sub>
@@ -27,7 +27,7 @@
        </p>
 </td>
   <td align="center"><br>
-        <b>Inajá Morais</b>
+        <br><b>Inajá Morais</b><br>
         <a href="">
             <img src="https://avatars.githubusercontent.com/u/79170231?v=4" width="150px;" alt="Inajá Morais" style="max-width:100%;">
             <sub></sub>
