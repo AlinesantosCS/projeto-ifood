@@ -15,9 +15,10 @@
 
 <table>
  <td align="center"><br>
+        <b>Aline Santos</b>
         <a href="">
             <img src="https://avatars.githubusercontent.com/u/66446323?s=400&u=ceca6c002e0d002d4ab563458d2da287c2ef03ba&v=4" width="150px;" alt="Aline Santos" style="max-width:100%;">
-            <br><sub><b>Aline Santos</b></sub><br>
+            <sub></sub>
         <p align="center">
             </a>
             <a href="https://github.com/AlinesantosCS">
@@ -26,9 +27,10 @@
        </p>
 </td>
   <td align="center"><br>
+        <b>Inajá Morais</b>
         <a href="">
             <img src="https://avatars.githubusercontent.com/u/79170231?v=4" width="150px;" alt="Inajá Morais" style="max-width:100%;">
-            <br><sub><b>Inajá Morais</b></sub><br>
+            <sub></sub>
         <p align="center">
             </a>    
             <a href="https://github.com/InaMorais">
