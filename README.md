@@ -26,6 +26,7 @@
  </p>
 
 -------------
+
 <h3 align= "center"> 🍂 Colaboradoras do projeto 🍂 </h3>
 
 
@@ -44,11 +45,7 @@
        </p>
 </td>
   <td align="center"><br>
-<<<<<<< HEAD
-        <br><b>Inajá Morais</b>
-=======
         <br><b>Inajá Morais</b><br>
->>>>>>> b46ce35aee637e0df19e333fbad498957b233d05
         <a href="">
             <img src="https://avatars.githubusercontent.com/u/79170231?v=4" width="150px;" alt="Inajá Morais" style="max-width:100%;">
             <sub></sub>
