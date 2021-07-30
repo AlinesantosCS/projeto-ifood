@@ -10,7 +10,23 @@
 * As empresas que foram utilizadas como fonte da dados: Uber, Google Maps, Youtube, Spotify e Ifood.
 
 --------
-<h3 align= "center"> Colaboradoras do projeto </h3>
+### 🍂 Visualização dos dados 🍂 
+<br>
+ <p align="center">
+    <img src="dashboard/visualizacao-de-dados/1dash.png">
+ </p>
+  <p align="center">
+    <img src="dashboard/visualizacao-de-dados/2dash.png">
+ </p>
+  <p align="center">
+    <img src="dashboard/visualizacao-de-dados/3dash.png">
+ </p>
+  <p align="center">
+    <img src="dashboard/visualizacao-de-dados/4dash.png">
+ </p>
+
+-------------
+<h3 align= "center"> 🍂 Colaboradoras do projeto 🍂 </h3>
 
 
 <table align="center">
@@ -27,7 +43,11 @@
        </p>
 </td>
   <td align="center"><br>
+<<<<<<< HEAD
+        <br><b>Inajá Morais</b>
+=======
         <br><b>Inajá Morais</b><br>
+>>>>>>> b46ce35aee637e0df19e333fbad498957b233d05
         <a href="">
             <img src="https://avatars.githubusercontent.com/u/79170231?v=4" width="150px;" alt="Inajá Morais" style="max-width:100%;">
             <sub></sub>
